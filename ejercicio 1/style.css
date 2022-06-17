@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(70,70,70);
+    color: rgb(255, 20, 94);
+     padding: 10px;
+}
+.encabezado-azul{
+   border: solid blue 2px;
+   margin: 30px 0 30px 0;
+  
+    
+}
+.encabezado-gris{
+    border: solid grey 2px;
+    padding: 5px;
+   
+}
+.lista-verde{
+   border: solid greenyellow 2px;
+   padding: 0 10px 0 10px;
+   margin: 15px 0 15px 0;
+}
+li{
+    margin: 15px;
+}
+
+
